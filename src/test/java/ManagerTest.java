@@ -57,7 +57,6 @@ public class ManagerTest {
         film.add(film4);
         film.add(film5);
         film.add(film6);
-        film.add(film7);
 
 
         NameOfFilm[] expected = {film1, film2, film3, film4, film5, film6};
